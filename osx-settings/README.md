@@ -504,6 +504,12 @@
   brew install go
   ```
 
+- [C#](https://dotnet.microsoft.com/)
+
+  ```shell
+  brew cask install dotnet-sdk
+  ```
+
   
 
   
