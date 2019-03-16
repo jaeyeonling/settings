@@ -720,6 +720,12 @@
   brew install pass
   ```
 
+- [Nodemon](https://nodemon.io/)
+
+  ```shell
+  yarn global add nodemon
+  ```
+
   
 
 
