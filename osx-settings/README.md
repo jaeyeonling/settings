@@ -726,7 +726,11 @@
   yarn global add nodemon
   ```
 
-  
+- [Express Generator](https://github.com/expressjs/generator)
+
+  ```shell
+  yarn global add express-generator
+  ```
 
 
 
