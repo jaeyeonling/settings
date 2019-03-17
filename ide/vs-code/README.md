@@ -1,7 +1,7 @@
 # VS Code
 
-1. [.editconfig](./.editconfig)
+1. [.editorconfig](./.editorconfig)
 
-2. [Extensions](./extensions)
+2. [Extensions](./extensions.md)
 
 
