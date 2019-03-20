@@ -226,19 +226,19 @@
 
 ### ETC
 
-* [CURL](https://curl.haxx.se/)
+- [CURL](https://curl.haxx.se/)
 
   ```shell
   brew install curl
   ```
 
-* [Spectacle](https://www.spectacleapp.com/)
+- [Spectacle](https://www.spectacleapp.com/)
 
   ```shell
   brew cask install spectacle
   ```
 
-* [Command Q](https://clickontyler.com/commandq/)
+- [Command Q](https://clickontyler.com/commandq/)
 
   ```shell
   brew cask install commandq
@@ -280,6 +280,11 @@
   brew cask install the-unarchiver
   ```
 
+- [Aearial](https://github.com/JohnCoates/Aerial)
+
+  ```shell
+  brew cask install aerial
+  ```
 
 
 
