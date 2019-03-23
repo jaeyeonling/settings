@@ -8,7 +8,7 @@
   sudo nvram AutoBoot=%03
   ```
 
-* Eisable
+* Disable
 
   ```shell
   sudo nvram AutoBoot=%00
