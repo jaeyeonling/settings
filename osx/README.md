@@ -2,4 +2,4 @@
 
 1. [Application](./application)
 
-2. [System Preperence](./system-preperence)
+2. [System Preperence](./system-perference)
