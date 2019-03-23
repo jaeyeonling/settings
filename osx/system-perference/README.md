@@ -1,5 +1,21 @@
 # System Preference
 
+### AutoBoot (Since the 2016)
+
+* Enable
+
+  ```shell
+  sudo nvram AutoBoot=%03
+  ```
+
+* Eisable
+
+  ```shell
+  sudo nvram AutoBoot=%00
+  ```
+
+  
+
 ### General
 
 ![general](./general.png)
