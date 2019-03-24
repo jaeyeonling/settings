@@ -286,6 +286,16 @@
   brew cask install aerial
   ```
 
+- [Alfred](https://www.alfredapp.com/)
+
+  ```shell
+  brew cask install alfred
+  ```
+
+
+
+
+
 
 
 
