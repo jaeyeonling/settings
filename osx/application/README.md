@@ -305,6 +305,12 @@
   brew cask install docker
   ```
 
+* [Telnet](https://www.telnet.org/)
+
+  ```shell
+  brew install telnet
+  ```
+
   
 
 
