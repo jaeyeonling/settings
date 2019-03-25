@@ -292,9 +292,13 @@
   brew cask install alfred
   ```
 
+* [Zoom](https://zoom.us/)
 
+  ```shell
+  brew cask install zoomus
+  ```
 
-
+  
 
 
 
@@ -307,6 +311,3 @@
   brew cask install microsoft-office
   ```
 
-
-
-### 
