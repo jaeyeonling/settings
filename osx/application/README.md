@@ -298,8 +298,13 @@
   brew cask install zoomus
   ```
 
-  
+* [Docker](https://www.docker.com/)
 
+  ```shell
+  brew install docker
+  ```
+
+  
 
 
 
