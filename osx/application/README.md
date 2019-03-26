@@ -1,6 +1,6 @@
 # Application
 
-### Package Manager
+## Package Manager
 
 - [Homebrew](https://brew.sh/)
 
@@ -23,9 +23,7 @@
 
   
 
-
-
-### Lanugage
+## Lanugage
 
 - [Java](https://adoptopenjdk.net/)
 
@@ -55,7 +53,7 @@
 
   
 
-### Terminal
+## Terminal
 
 - [Iterm2](https://www.iterm2.com/)
 
@@ -65,11 +63,12 @@
   sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
   ```
 
-  
 
 
 
-### VCS (Version Control System)
+
+
+## VCS (Version Control System)
 
 - [Git](https://git-scm.com/)
 
@@ -93,9 +92,7 @@
 
 
 
-
-
-### Browser
+## Browser
 
 - [Chrome](https://www.google.com/intl/ko_ALL/chrome/)
 
@@ -118,7 +115,8 @@
 
 
 
-### Messenger
+
+## Messenger
 
 - [KakaoTalk](https://www.kakaocorp.com/service/KakaoTalk)
 
@@ -132,7 +130,7 @@
 
 
 
-### Editor
+## Editor
 
 - [Evernote](https://evernote.com/intl/ko)
 
@@ -162,7 +160,7 @@
 
 
 
-### IDE
+## IDE
 
 - [Jet Brains Toolbox App](https://www.jetbrains.com/toolbox/app/)
 
@@ -194,7 +192,7 @@
 
 
 
-### Build Tool
+## Build Tool
 
 - [Maven](https://maven.apache.org/)
 
@@ -212,7 +210,7 @@
 
 
 
-### DB Tool (Database Tool)
+## DB Tool (Database Tool)
 
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
@@ -224,13 +222,7 @@
 
 
 
-### ETC
-
-- [CURL](https://curl.haxx.se/)
-
-  ```shell
-  brew install curl
-  ```
+## ETC
 
 - [Spectacle](https://www.spectacleapp.com/)
 
@@ -254,24 +246,6 @@
 
   ```shell
   brew cask install teamviewer
-  ```
-
-- [Pass](https://www.passwordstore.org/)
-
-  ```shell
-  brew install pass
-  ```
-
-- [Nodemon](https://nodemon.io/)
-
-  ```shell
-  yarn global add nodemon
-  ```
-
-- [Express Generator](https://github.com/expressjs/generator)
-
-  ```shell
-  yarn global add express-generator
   ```
 
 - [The Unarchiver](https://theunarchiver.com/)
@@ -305,21 +279,60 @@
   brew cask install docker
   ```
 
-* [Telnet](https://www.telnet.org/)
-
-  ```shell
-  brew install telnet
-  ```
-
-  
 
 
 
-### Office
+
+
+## Office
 
 - [MS Office](https://products.office.com/ko-kr/products)
 
   ```shell
   brew cask install microsoft-office
   ```
+
+
+
+## CLI
+
+* [CURL](https://curl.haxx.se/)
+
+  ```shell
+  brew install curl
+  ```
+
+* [Pass](https://www.passwordstore.org/)
+
+  ```shell
+  brew install pass
+  ```
+
+* [Nodemon](https://nodemon.io/)
+
+  ```shell
+  yarn global add nodemon
+  ```
+
+* [Express Generator](https://github.com/expressjs/generator)
+
+  ```shell
+  yarn global add express-generator
+  ```
+
+* [Telnet](https://www.telnet.org/)
+
+  ```shell
+  brew install telnet
+  ```
+
+* [Sequelize CLI](http://docs.sequelizejs.com/)
+
+  ```shell
+  yarn global add sequelize-cli
+  ```
+
+  
+
+
 
