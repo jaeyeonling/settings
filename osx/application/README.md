@@ -332,6 +332,12 @@
   yarn global add sequelize-cli
   ```
 
+* [Babel CLI](https://babeljs.io/docs/en/babel-cli)
+
+  ```shell
+  yarn global add @babel/core @babel/cli
+  ```
+
   
 
 
