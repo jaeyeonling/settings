@@ -338,6 +338,16 @@
   yarn global add @babel/core @babel/cli
   ```
 
+
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+
+  ```shell
+  brew tap heroku/brew && brew install heroku
+  ```
+
+
+
+
   
 
 
