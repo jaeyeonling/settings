@@ -347,6 +347,14 @@
 
 
 
+* [htop](https://hisham.hm/htop/)
+
+  ```shell
+  brew install htop
+  ```
+
+
+
 
   
 
