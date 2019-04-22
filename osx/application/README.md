@@ -344,8 +344,7 @@
   ```shell
   brew tap heroku/brew && brew install heroku
   ```
-
-
+  
 
 * [htop](https://hisham.hm/htop/)
 
@@ -354,6 +353,11 @@
   ```
 
 
+* [Gulp CLI](https://gulpjs.com/)
+
+  ```shell
+  yarn global add gulp-cli
+  ```
 
 
   
