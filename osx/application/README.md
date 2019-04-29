@@ -361,7 +361,12 @@
   yarn global add gulp-cli
   ```
 
+* [Mocha CLI](https://mochajs.org/)
 
+  ```shell
+  yarn global add mocha
+  ```
+  
   
 
 
