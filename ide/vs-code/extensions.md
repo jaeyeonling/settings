@@ -6,3 +6,4 @@
 
 - EditorConfig for VS Code
 
+- TSLint
