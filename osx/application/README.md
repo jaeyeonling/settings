@@ -373,6 +373,12 @@
   yarn global add typescript
   ```
   
+* [TSLint CLI](https://palantir.github.io/tslint/)
+
+  ```shell
+  yarn global add tslint
+  ```
+  
 
 
 
