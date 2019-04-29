@@ -367,7 +367,13 @@
   yarn global add mocha
   ```
   
+* [Typescript CLI](https://www.typescriptlang.org/)
+
+  ```shell
+  yarn global add typescript
+  ```
   
+
 
 
 
