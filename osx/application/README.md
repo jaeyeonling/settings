@@ -378,7 +378,14 @@
   ```shell
   yarn global add tslint
   ```
+    
+* [Sketch](https://www.sketch.com/)
+
+  ```shell
+  brew cask install sketch
+  ```
   
+
 
 
 
