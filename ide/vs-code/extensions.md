@@ -7,3 +7,7 @@
 - EditorConfig for VS Code
 
 - TSLint
+
+- ESLint
+
+- Prettier
