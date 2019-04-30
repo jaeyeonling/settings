@@ -385,7 +385,11 @@
   brew cask install sketch
   ```
   
+* [ESLint CLI](https://eslint.org/)
 
+  ```shell
+  yarn global add eslint
+  ```
 
 
 
