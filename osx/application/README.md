@@ -268,22 +268,31 @@
   brew cask install alfred
   ```
 
-* [Zoom](https://zoom.us/)
+- [Zoom](https://zoom.us/)
 
   ```shell
   brew cask install zoomus
   ```
 
-* [Docker](https://www.docker.com/)
+- [Docker](https://www.docker.com/)
 
   ```shell
   brew install docker
   brew cask install docker
   ```
 
+- [iina](https://github.com/iina/iina)
 
+  ```shell
+  brew tap iina/homebrew-mpv-iina
+  brew install mpv-iina
+  ```
 
+* [Sketch](https://www.sketch.com/)
 
+  ```shell
+  brew cask install sketch
+  ```
 
 
 ## Office
@@ -378,12 +387,7 @@
   ```shell
   yarn global add tslint
   ```
-    
-* [Sketch](https://www.sketch.com/)
-
-  ```shell
-  brew cask install sketch
-  ```
+  
   
 * [ESLint CLI](https://eslint.org/)
 
