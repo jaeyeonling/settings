@@ -50,6 +50,14 @@
   ```
 
   
+## Database
+
+- [Redis](https://redis.io/)
+
+  ```shell
+  brew install redis
+  ```
+
 
   
 
